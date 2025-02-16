@@ -1,6 +1,6 @@
 # Research-Tools
 This repository is created to share all research tools listed in this document. It is intended for researchers, students, and professionals who want to improve their literature review process. The document provides a step-by-step guide to using each tool efficiently. This repository can be shared on GitHub for easy access and collaboration. 
-# Literature Review & Research Tools README
+# Literature Review & Research Tools
 
 ## **Description**
 This repository provides a **comprehensive guide** to research tools categorized by their functionalities in **literature review, paper writing, research presentation, paper reading, and data analysis**. This README file helps researchers, students, and professionals streamline their research workflow.
@@ -15,91 +15,94 @@ This repository provides a **comprehensive guide** to research tools categorized
 - [5. Data Analysis Tools](#5-data-analysis-tools)
 - [6. How to Use These Tools](#6-how-to-use-these-tools)
 - [7. Contributing](#7-contributing)
-- [8. License](#8-license)
 
 ---
 
 ## **1. Literature Review Tools**
 
-| **Tool**             | **Key Features** |
-|----------------------|----------------|
-| **Litmaps**         | Citation network visualization, related paper discovery |
-| **Researchpal**     | AI-driven literature search and summarization |
-| **Connected Papers**| Citation-based graph for exploring related research |
-| **Scite**           | Smart citations (supporting, contrasting, mentioning) |
-| **AnswerThis**      | AI-powered research question answering |
-| **Semantic Scholar**| AI-enhanced research paper search engine |
-| **R Discovery**     | Personalized research recommendations and alerts |
-| **PubMed**          | Biomedical and life sciences research database |
-| **Zotero**          | Open-source reference manager with PDF annotation |
-| **EndNote**         | Advanced citation management, MS Word integration |
-| **Mendeley**        | Reference management, academic social networking |
+| **Tool** | **Key Features** | **Link** |
+|----------|----------------|---------|
+| **[Litmaps](https://www.litmaps.com)** | Citation network visualization | [Visit](https://www.litmaps.com) |
+| **[Researchpal](https://www.researchpal.ai)** | AI-driven literature search | [Visit](https://www.researchpal.ai) |
+| **[Connected Papers](https://www.connectedpapers.com)** | Citation-based graph for related research | [Visit](https://www.connectedpapers.com) |
+| **[Scite](https://www.scite.ai)** | Smart citations with supporting/contrasting analysis | [Visit](https://www.scite.ai) |
+| **[AnswerThis](https://www.answerthis.ai)** | AI-powered research question answering | [Visit](https://www.answerthis.ai) |
+| **[Semantic Scholar](https://www.semanticscholar.org)** | AI-enhanced academic search engine | [Visit](https://www.semanticscholar.org) |
+| **[R Discovery](https://www.rdiscovery.com)** | Personalized research recommendations | [Visit](https://www.rdiscovery.com) |
+| **[PubMed](https://pubmed.ncbi.nlm.nih.gov)** | Biomedical research database | [Visit](https://pubmed.ncbi.nlm.nih.gov) |
+| **[Zotero](https://www.zotero.org)** | Open-source reference manager | [Visit](https://www.zotero.org) |
+| **[EndNote](https://www.endnote.com)** | Advanced citation management | [Visit](https://www.endnote.com) |
+| **[Mendeley](https://www.mendeley.com)** | Reference management and collaboration | [Visit](https://www.mendeley.com) |
 
 ---
 
 ## **2. Paper Writing Tools**
 
-| **Tool**          | **Key Features** |
-|------------------|----------------|
-| **Paperpal**     | AI-assisted academic writing assistant |
-| **Review-it**    | Peer-review workflow management |
-| **Trinka.ai**    | AI-powered language enhancement for academic writing |
-| **SciSpace**     | AI-based research writing and editing |
-| **Grammarly**    | Grammar and plagiarism checker |
-| **Overleaf**     | Collaborative LaTeX editor for research papers |
-| **Google Docs**  | Cloud-based document collaboration |
-| **Scrivener**    | Writing software for research manuscripts |
-| **Julius AI**    | AI-powered academic paper generator |
-| **Hemingway Editor** | Readability and clarity improvement tool |
+| **Tool** | **Key Features** | **Link** |
+|----------|----------------|---------|
+| **[Paperpal](https://www.paperpal.com)** | AI-assisted academic writing | [Visit](https://www.paperpal.com) |
+| **[Review-it](https://www.review-it.com)** | Peer-review workflow management | [Visit](https://www.review-it.com) |
+| **[Trinka.ai](https://www.trinka.ai)** | AI-powered academic writing enhancement | [Visit](https://www.trinka.ai) |
+| **[SciSpace](https://www.scispace.com)** | AI-based research writing | [Visit](https://www.scispace.com) |
+| **[Grammarly](https://www.grammarly.com)** | Grammar and plagiarism checker | [Visit](https://www.grammarly.com) |
+| **[Overleaf](https://www.overleaf.com)** | LaTeX editor for academic writing | [Visit](https://www.overleaf.com) |
+| **[Google Docs](https://docs.google.com)** | Cloud-based document collaboration | [Visit](https://docs.google.com) |
+| **[Scrivener](https://www.literatureandlatte.com/scrivener/overview)** | Research manuscript writing software | [Visit](https://www.literatureandlatte.com/scrivener/overview) |
+| **[Julius AI](https://www.julius.ai)** | AI-powered academic paper generator | [Visit](https://www.julius.ai) |
+| **[Hemingway Editor](https://www.hemingwayapp.com/)** | Readability and clarity improvement tool | [Visit](https://www.hemingwayapp.com/) |
+
 
 ---
 
 ## **3. Research Presentation Tools**
 
-| **Tool**         | **Key Features** |
-|------------------|----------------|
-| **Canva**       | Drag-and-drop design for research posters and slides |
-| **Mind the Graph** | Scientific illustrations and infographics |
-| **Beautiful.ai** | AI-powered presentation design |
-| **Gamma**       | AI-generated slides and presentation decks |
-| **Piktochart**  | Data-driven infographic and poster maker |
-| **Designs.ai**  | AI-powered visual content creation |
-| **Visme**       | Presentation and infographic design tool |
-| **Prezi**       | Non-linear, interactive presentations |
-| **Infogram**    | Data visualization for research reports |
-| **Vizzlo**      | Quick and easy data chart creation |
+| **Tool**         | **Key Features** | **Link** |
+|------------------|----------------|---------|
+| **[Canva](https://www.canva.com)** | Drag-and-drop design for research posters and slides | [Visit](https://www.canva.com) |
+| **[Mind the Graph](https://www.mindthegraph.com)** | Scientific illustrations and infographics | [Visit](https://www.mindthegraph.com) |
+| **[Beautiful.ai](https://www.beautiful.ai)** | AI-powered presentation design | [Visit](https://www.beautiful.ai) |
+| **[Gamma](https://gamma.app)** | AI-generated slides and presentation decks | [Visit](https://gamma.app) |
+| **[Piktochart](https://www.piktochart.com)** | Data-driven infographic and poster maker | [Visit](https://www.piktochart.com) |
+| **[Designs.ai](https://www.designs.ai)** | AI-powered visual content creation | [Visit](https://www.designs.ai) |
+| **[Visme](https://www.visme.co)** | Presentation and infographic design tool | [Visit](https://www.visme.co) |
+| **[Prezi](https://www.prezi.com)** | Non-linear, interactive presentations | [Visit](https://www.prezi.com) |
+| **[Infogram](https://www.infogram.com)** | Data visualization for research reports | [Visit](https://www.infogram.com) |
+| **[Vizzlo](https://www.vizzlo.com)** | Quick and easy data chart creation | [Visit](https://www.vizzlo.com) |
+
 
 ---
 
 ## **4. Paper Reading Tools**
 
-| **Tool**         | **Key Features** |
-|------------------|----------------|
-| **Scholary**     | AI-assisted research paper summarization |
-| **Enago Read**   | AI-powered academic paper reader |
-| **SciSummary**   | AI-generated summaries for research articles |
-| **Scribe AI**    | PDF research paper summarizer |
-| **Petal AI**     | AI-based literature summary tool |
-| **Outread**      | Speed reading and research document analysis |
-| **Paper Digest** | Key takeaway extraction from papers |
-| **PubReader**    | Simplified reading interface for research papers |
-| **DeepDyve**     | Subscription-based research paper access |
+| **Tool**         | **Key Features** | **Link** |
+|------------------|----------------|---------|
+| **[Scholary](https://www.scholary.com)** | AI-assisted research paper summarization | [Visit](https://www.scholary.com) |
+| **[Enago Read](https://www.enago.com/read/)** | AI-powered academic paper reader | [Visit](https://www.enago.com/read/) |
+| **[SciSummary](https://www.scisummary.com)** | AI-generated summaries for research articles | [Visit](https://www.scisummary.com) |
+| **[Scribe AI](https://www.scribeai.com)** | PDF research paper summarizer | [Visit](https://www.scribeai.com) |
+| **[Petal AI](https://www.petal.ai)** | AI-based literature summary tool | [Visit](https://www.petal.ai) |
+| **[Outread](https://www.outreadapp.com)** | Speed reading and research document analysis | [Visit](https://www.outreadapp.com) |
+| **[Paper Digest](https://www.paperdigest.org)** | Key takeaway extraction from papers | [Visit](https://www.paperdigest.org) |
+| **[PubReader](https://www.ncbi.nlm.nih.gov/pmc/tools/pubreader/)** | Simplified reading interface for research papers | [Visit](https://www.ncbi.nlm.nih.gov/pmc/tools/pubreader/) |
+| **[DeepDyve](https://www.deepdyve.com)** | Subscription-based research paper access | [Visit](https://www.deepdyve.com) |
+
 
 ---
 
 ## **5. Data Analysis Tools**
 
-| **Tool**       | **Key Features** |
-|---------------|----------------|
-| **SPSS**      | Statistical analysis for research studies |
-| **Tableau**   | Interactive data visualization and dashboards |
-| **Power BI**  | Business intelligence and research data insights |
-| **Nvivo**     | Qualitative research data analysis |
-| **Minitab**   | Statistical and predictive analytics |
-| **MS Excel**  | Spreadsheet-based data analysis and visualization |
-| **Python**    | Programming language for statistical computing |
-| **Google Sheets** | Cloud-based spreadsheet for collaborative data analysis |
-| **JASP**      | Open-source statistical analysis software |
+| **Tool**       | **Key Features** | **Link** |
+|---------------|----------------|---------|
+| **[SPSS](https://www.ibm.com/products/spss-statistics)** | Statistical analysis for research studies | [Visit](https://www.ibm.com/products/spss-statistics) |
+| **[Tableau](https://www.tableau.com)** | Interactive data visualization and dashboards | [Visit](https://www.tableau.com) |
+| **[Power BI](https://powerbi.microsoft.com/)** | Business intelligence and research data insights | [Visit](https://powerbi.microsoft.com/) |
+| **[Nvivo](https://www.qsrinternational.com/nvivo)** | Qualitative research data analysis | [Visit](https://www.qsrinternational.com/nvivo) |
+| **[Minitab](https://www.minitab.com)** | Statistical and predictive analytics | [Visit](https://www.minitab.com) |
+| **[MS Excel](https://www.microsoft.com/en-us/microsoft-365/excel)** | Spreadsheet-based data analysis and visualization | [Visit](https://www.microsoft.com/en-us/microsoft-365/excel) |
+| **[Python](https://www.python.org)** | Programming language for statistical computing | [Visit](https://www.python.org) |
+| **[Google Sheets](https://docs.google.com/spreadsheets/)** | Cloud-based spreadsheet for collaborative data analysis | [Visit](https://docs.google.com/spreadsheets/) |
+| **[JASP](https://jasp-stats.org)** | Open-source statistical analysis software | [Visit](https://jasp-stats.org) |
+
 
 ---
 
