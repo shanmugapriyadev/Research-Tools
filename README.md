@@ -22,7 +22,7 @@ This repository provides a **comprehensive guide** to research tools categorized
 
 | **Tool** | **Key Features** | **Link** |
 |----------|----------------|---------|
-| **[Litmaps](https://www.litmaps.com)** | Citation network visualization | [Visit](https://www.litmaps.com) |
+| **[Litmaps](https://www.litmaps.com)** | Citation network visualization | [Visit](https://medium.com/@shanmugapriyadharanibabu/research-literature-review-tool-1-ee51447420db) |
 | **[Researchpal](https://www.researchpal.ai)** | AI-driven literature search | [Visit](https://www.researchpal.ai) |
 | **[Connected Papers](https://www.connectedpapers.com)** | Citation-based graph for related research | [Visit](https://www.connectedpapers.com) |
 | **[Scite](https://www.scite.ai)** | Smart citations with supporting/contrasting analysis | [Visit](https://www.scite.ai) |
