@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+gtts
+moviepy
+openai
+google-api-python-client
