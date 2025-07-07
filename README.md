@@ -139,3 +139,31 @@ If you would like to contribute to this repository, please fork it and submit pu
 ---
 
 🚀 **This README is structured for GitHub, making it easy to share and collaborate on research workflows!** Let me know if you need further modifications.
+
+---
+
+## YouTube Automation Workflow
+
+This repository also includes a basic Python script to automate question-based YouTube videos. The workflow reads an Excel sheet, generates narration using GPT or templates, creates short videos with `moviepy`, and uploads them to YouTube.
+
+### Setup
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Create a `.env` file in the project root with your API keys and email credentials. Example:
+   ```bash
+   OPENAI_API_KEY=your-openai-key
+   YOUTUBE_API_KEY=your-youtube-api-key
+   EMAIL_SENDER=you@example.com
+   EMAIL_PASSWORD=your-email-password
+   EMAIL_RECEIVER=notify@example.com
+   ```
+3. Prepare `data.xlsx` with columns `subject`, `topic`, `question`, `answer`, `explanation`, and `strategy tips`.
+
+### Running the Workflow
+Execute the script to process each row in the spreadsheet:
+```bash
+python youtube_workflow.py
+```
+The script generates videos in the `output/` directory, uploads them if the YouTube API is available, logs the upload in `workflow.db`, and sends an email notification.
