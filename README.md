@@ -167,3 +167,9 @@ Execute the script to process each row in the spreadsheet:
 python youtube_workflow.py
 ```
 The script generates videos in the `output/` directory, uploads them if the YouTube API is available, logs the upload in `workflow.db`, and sends an email notification.
+
+---
+
+## MCQ Video Pipeline
+
+The `mcq_video_pipeline` folder contains a more modular setup to automate multiple-choice question explainer videos. Each step (data retrieval, voiceover, video creation, upload, playlist management, logging, and email notification) lives in its own module for easy maintenance. See [`mcq_video_pipeline/README.md`](mcq_video_pipeline/README.md) for configuration and usage details.

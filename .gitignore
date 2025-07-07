@@ -1,0 +1,5 @@
+# Ignore environment and output files
+.env
+output/
+pipeline.db
+__pycache__/
